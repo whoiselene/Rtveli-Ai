@@ -12,7 +12,7 @@ AI that spots grapevine diseases from a leaf photo and maps outbreaks across Geo
   <b>რთველი (rtveli)</b> = the Georgian grape harvest.<br/>
   <b>Rtveli AI</b> = making sure there's still a harvest to celebrate.
 </p>
-<img src="assets/divider.svg" width="100%"/>
+
 ## `> what is this`
  
 Every year, **mildew** quietly eats Georgian vineyards.
@@ -35,6 +35,7 @@ No agronomist on speed dial? No problem.
 | 🟣 | **Leaf blight** | messy dark brown patches |
 | ⚫ | **Not a grape leaf** | the AI says *"I'm not sure"* instead of guessing |
  
+>
 >
 ## `> features`
  
