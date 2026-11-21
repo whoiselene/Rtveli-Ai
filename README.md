@@ -23,8 +23,6 @@ Snap a grape leaf → the AI tells you what's wrong → you see it spreading on 
  
 No agronomist on speed dial? No problem.
  
-<img src="assets/how-it-works.svg" width="100%"/>
-<img src="assets/divider.svg" width="100%"/>
 ## `> what it can spot`
  
 | | disease | the tell |
@@ -37,7 +35,7 @@ No agronomist on speed dial? No problem.
 | 🟣 | **Leaf blight** | messy dark brown patches |
 | ⚫ | **Not a grape leaf** | the AI says *"I'm not sure"* instead of guessing |
  
-<img src="assets/divider.svg" width="100%"/>
+>
 ## `> features`
  
 - 📸 **Scan:** photo in, diagnosis out, in about 2 seconds
@@ -46,7 +44,6 @@ No agronomist on speed dial? No problem.
 - 🍇 **Disease cards:** what it is, why it happened, what to do next
 - 🇬🇪 **Bilingual:** English + ქართული
 - 🔒 **Private:** photos aren't stored, and locations are blurred to about 1 km
-<img src="assets/divider.svg" width="100%"/>
 ## `> under the hood`
  
 ```
@@ -72,7 +69,6 @@ No agronomist on speed dial? No problem.
 **The honest part:** we report accuracy on clean lab photos **and** on real vineyard photos.
 The second number is the one that matters.
  
-<img src="assets/divider.svg" width="100%"/>
 ## `> run it`
  
 ```bash
@@ -83,7 +79,6 @@ docker compose up
  
 🍇 frontend → `localhost:5173`  ·  ⚡ api docs → `localhost:8000/docs`
  
-<img src="assets/divider.svg" width="100%"/>
 ## `> roadmap`
  
 - [x] idea, name, design
@@ -93,7 +88,7 @@ docker compose up
 - [ ] outbreak map
 - [ ] ქართული version + live demo
 - [ ] 🔮 mildew risk forecast from the weather
-<img src="assets/divider.svg" width="100%"/>
+
 > [!NOTE]
 > Rtveli AI is a helper, not a replacement for an agronomist.
 > If the vineyard is in trouble, call a human. 🍷
