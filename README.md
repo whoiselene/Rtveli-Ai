@@ -83,11 +83,11 @@ docker compose up
 ## `> roadmap`
  
 - [x] idea, name, design
-- [ ] train the model
-- [ ] FastAPI backend
+- [x] train the model
+- [x] FastAPI backend
 - [ ] React app + heatmap slider
 - [ ] outbreak map
-- [ ] ქართული version + live demo
+- [x] ქართული version + live demo
 - [ ] 🔮 mildew risk forecast from the weather
 
 > [!NOTE]
